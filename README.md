@@ -33,8 +33,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub)
+- Live Site URL: [https://nextcorp.github.io/results-summary-component/](https://nextcorp.github.io/results-summary-component/)
 
 ## My process
 
